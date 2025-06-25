@@ -25,7 +25,8 @@ The report synthesizes real-world case studies to show how SNA metrics like **ce
 
 | File Name        | Description                                      |
 |------------------|--------------------------------------------------|
-| `SNA_Report.docx`| Full research report with case studies and results |
+| `Social_Network_Analysis_Report.pdf`| Full research report with case studies and results |
+| `Survey Report on Social Network Analysis Applications.pptx` | Full research presentation with methodology |
 | `README.md`      | GitHub documentation (you’re reading it!)        |
 
 ---
